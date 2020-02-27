@@ -4,5 +4,5 @@ Flask-Cors==3.0.8
 connexion==2.5.0
 pykafka==2.8.0
 PyMySQL==0.9.3
-mysql-connector-python==0.0.19
+mysql-connector-python==8.0.19
 swagger-ui==0.1.2
