@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b76c5e26-c47f-4034-975a-8b4d0a3dd15d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/EventReceiverService/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EventReceiverService/.idea/Lab1Updated.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EventReceiverService/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EventReceiverService/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EventReceiverService/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EventReceiverService/openapi.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DashboardService/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/DashboardService/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DashboardService/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/DashboardService/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DashboardService/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/DashboardService/src/App.js" afterDir="false" />
@@ -130,7 +124,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/EventReceiverService" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -254,7 +248,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28502023" />
