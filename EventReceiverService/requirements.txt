@@ -2,5 +2,4 @@ Flask==1.1.1
 Flask-Cors==3.0.8
 connexion==2.5.0
 pykafka==2.8.0
-mysql==0.0.2
 requests=2.23.0
