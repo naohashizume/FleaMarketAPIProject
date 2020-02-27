@@ -1,0 +1,41 @@
+swagger: '2.0'
+info:
+  description: This is an API for an online flea market service for customers to buy/sell their second-hand items.
+  version: 1.0.0
+  title: Flea Market API Statistics
+
+paths:
+  /sell_request:
+    get:
+      summary: get a request for selling and buying items
+      operationId: app.get_request_stats
+      description: Get request stats
+      produces:
+        - application/json
+      responses:
+        200:
+          description: current stats
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/RequestStats'
+        404:
+          description: stats do not exist
+definitions:
+  RequestStats:
+    type: object
+    required:
+    - num_buy_request
+    - num_sell_request
+    - timestamp
+    properties:
+      num_buy_request:
+        type: integer
+        example: 1023
+      num_sell_request:
+        type: integer
+        example: 1023
+      timestamp:
+        type: string
+        format: date-time
+        example: 2016-08-29T09:12:33.001Z

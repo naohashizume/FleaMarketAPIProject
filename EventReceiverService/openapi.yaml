@@ -1,0 +1,106 @@
+swagger: '2.0'
+info:
+  description: This is an API for an online flea market service for customers to buy/sell their second-hand items.
+  version: 1.0.0
+  title: Flea Market API
+
+paths:
+  /sell_request:
+    post:
+      summary: add a new request for selling an item
+      operationId: app.add_sell_request
+      description: Stores a selling request
+      consumes:
+      - application/json
+      produces:
+      - application/json
+      parameters:
+      - in: body
+        name: sell_request
+        description: A request for selling an item
+        schema:
+          $ref: '#/definitions/sell_request'
+      responses:
+        201:
+          description: item added
+        400:
+          description: invalid input, object invalid
+
+  /buy_request:
+    post:
+      summary: adds a new request for buying an item
+      operationId: app.add_buy_request
+      description: Stores a buying request
+      consumes:
+      - application/json
+      produces:
+      - application/json
+      parameters:
+      - in: body
+        name: buy_request
+        description: A buying item
+        schema:
+          $ref: '#/definitions/buy_request'
+      responses:
+        201:
+          description: item added
+        400:
+          description: invalid input, object invalid
+
+definitions:
+  sell_request:
+    type: object
+    required:
+    - customer_id
+    - seller_id
+    - item_id
+    - item_name
+    - time_stamp
+    properties:
+      customer_id:
+        type: string
+        format: uuid
+        example: d290f1ee-6c54-4b01-90e6-d701748f0851
+      item_id:
+        type: string
+        format: uuid
+        example: d290f1ee-6c54-4b01-90e6-d701748f0851
+      seller_id:
+        type: string
+        format: uuid
+        example: d290f1ee-6c54-4b01-90e6-d701748f0851
+      item_name:
+        type: string
+        example: Le creuset pan
+      time_stamp:
+        type: string
+        format: date-time
+        example: 2016-08-29T09:12:33.001Z
+
+  buy_request:
+    required:
+    - customer_id
+    - seller_id
+    - item_id
+    - item_name
+    - time_stamp
+    properties:
+      customer_id:
+        type: string
+        format: uuid
+        example: d290f1ee-6c54-4b01-90e6-d701748f0851
+      seller_id:
+        type: string
+        format: uuid
+        example: d290f1ee-6c54-4b01-90e6-d701748f0851
+      item_id:
+        type: string
+        format: uuid
+        example: d290f1ee-6c54-4b01-90e6-d701748f0851
+      item_name:
+        type: string
+        example: Le creuset pan
+      time_stamp:
+        type: string
+        format: date-time
+        example: 2016-08-29T09:12:33.001Z

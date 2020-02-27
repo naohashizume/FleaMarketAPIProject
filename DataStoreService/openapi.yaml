@@ -1,0 +1,124 @@
+swagger: '2.0'
+info:
+  description: This is an API for an online flea market service for customers to buy/sell their second-hand items.
+  version: 1.0.0
+  title: Flea Market API
+
+paths:
+  /sell_request:
+    get:
+      summary: get a request for selling an item
+      operationId: app.get_sell_request
+      description: Stores a selling request
+      produces:
+        - application/json
+      parameters:
+        - in: query
+          name: startDate
+          description: pass a mandatory date time to retrieve event start
+          required: true
+          type: string
+          format: date-time
+        - in: query
+          name: endDate
+          description: pass a mandatory date time to retrieve event end
+          required: true
+          type: string
+          format: date-time
+      responses:
+        200:
+          description: search results matching criteria
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/sell_request'
+        400:
+          description: bad input parameter
+
+  /buy_request:
+    get:
+      summary: get a request for buying an item
+      operationId: app.get_buy_request
+      description: Stores a buying request
+      produces:
+        - application/json
+      parameters:
+        - in: query
+          name: startDate
+          description: pass a mandatory date time to retrieve event start
+          required: true
+          type: string
+          format: date-time
+        - in: query
+          name: endDate
+          description: pass a mandatory date time to retrieve event end
+          required: true
+          type: string
+          format: date-time
+      responses:
+        200:
+          description: search results matching criteria
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/buy_request'
+        400:
+          description: bad input parameter
+
+definitions:
+  sell_request:
+    type: object
+    required:
+    - customer_id
+    - seller_id
+    - item_id
+    - item_name
+    - time_stamp
+    properties:
+      customer_id:
+        type: string
+        format: uuid
+        example: d290f1ee-6c54-4b01-90e6-d701748f0851
+      item_id:
+        type: string
+        format: uuid
+        example: d290f1ee-6c54-4b01-90e6-d701748f0851
+      seller_id:
+        type: string
+        format: uuid
+        example: d290f1ee-6c54-4b01-90e6-d701748f0851
+      item_name:
+        type: string
+        example: Le creuset pan
+      time_stamp:
+        type: string
+        format: date-time
+        example: 2016-08-29T09:12:33.001Z
+
+  buy_request:
+    required:
+    - customer_id
+    - seller_id
+    - item_id
+    - item_name
+    - time_stamp
+    properties:
+      customer_id:
+        type: string
+        format: uuid
+        example: d290f1ee-6c54-4b01-90e6-d701748f0851
+      seller_id:
+        type: string
+        format: uuid
+        example: d290f1ee-6c54-4b01-90e6-d701748f0851
+      item_id:
+        type: string
+        format: uuid
+        example: d290f1ee-6c54-4b01-90e6-d701748f0851
+      item_name:
+        type: string
+        example: Le creuset pan
+      time_stamp:
+        type: string
+        format: date-time
+        example: 2016-08-29T09:12:33.001Z

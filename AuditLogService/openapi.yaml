@@ -1,0 +1,121 @@
+swagger: '2.0'
+info:
+  description: This is an API for an online flea market service for customers to buy/sell their second-hand items.
+  version: 1.0.0
+  title: Flea Market API Audit Service
+
+paths:
+  /sell_request:
+    get:
+      summary: get a request for selling an item based on an offset
+      operationId: app.get_sell_request
+      description: Get the selling request based on an offset from the first event
+      produces:
+        - application/json
+      parameters:
+        - in: query
+          name: number
+          description: pass a mandatory number to retrieve event based on an offset from the first event
+          required: true
+          type: integer
+      responses:
+        200:
+          description: search results matching criteria
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/sell_request'
+        400:
+          description: bad input parameter
+
+  /sell_request/first:
+    get:
+      summary: get the oldest request for selling an item
+      operationId: app.get_oldest_sell_request
+      description: Get the oldest selling request based on an offset from the first event
+      produces:
+        - application/json
+      responses:
+        200:
+          description: search results matching criteria
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/sell_request'
+        400:
+          description: bad input parameter
+
+  /buy_request/first:
+    get:
+      summary: get the oldest request for buying an item
+      operationId: app.get_oldest_buy_request
+      description: Get the oldest buying request based on an offset from the first event
+      produces:
+        - application/json
+      responses:
+        200:
+          description: search results matching criteria
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/buy_request'
+        400:
+          description: bad input parameter
+
+definitions:
+  sell_request:
+    type: object
+    required:
+    - customer_id
+    - seller_id
+    - item_id
+    - item_name
+    - time_stamp
+    properties:
+      customer_id:
+        type: string
+        format: uuid
+        example: d290f1ee-6c54-4b01-90e6-d701748f0851
+      item_id:
+        type: string
+        format: uuid
+        example: d290f1ee-6c54-4b01-90e6-d701748f0851
+      seller_id:
+        type: string
+        format: uuid
+        example: d290f1ee-6c54-4b01-90e6-d701748f0851
+      item_name:
+        type: string
+        example: Le creuset pan
+      time_stamp:
+        type: string
+        format: date-time
+        example: 2016-08-29T09:12:33.001Z
+
+  buy_request:
+    required:
+    - customer_id
+    - seller_id
+    - item_id
+    - item_name
+    - time_stamp
+    properties:
+      customer_id:
+        type: string
+        format: uuid
+        example: d290f1ee-6c54-4b01-90e6-d701748f0851
+      seller_id:
+        type: string
+        format: uuid
+        example: d290f1ee-6c54-4b01-90e6-d701748f0851
+      item_id:
+        type: string
+        format: uuid
+        example: d290f1ee-6c54-4b01-90e6-d701748f0851
+      item_name:
+        type: string
+        example: Le creuset pan
+      time_stamp:
+        type: string
+        format: date-time
+        example: 2016-08-29T09:12:33.001Z
