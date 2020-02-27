@@ -14,6 +14,6 @@ RUN pip3 install -r requirements.txt
 
 COPY . /app
 
-ENTRYPOINT ["python“]
+ENTRYPOINT [ "python" ]
 
-CMD ["app.py“]
+CMD [ "app.py" ]
