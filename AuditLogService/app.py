@@ -5,8 +5,12 @@ import yaml
 import json
 from flask_cors import CORS, cross_origin
 
-with open('app_conf.yaml', 'r') as f:
-    app_config = yaml.safe_load(f.read())
+try:
+    with open('app_conf.yaml', 'r') as f:
+        app_config = yaml.safe_load(f.read())
+except IOError:
+    with open('../deployment/app_conf.yml') as f:
+        app_config = yaml.safe_load(f.read())
 
 
 def get_sell_request(number):

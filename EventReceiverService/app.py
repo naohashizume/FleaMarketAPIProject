@@ -6,9 +6,12 @@ import yaml
 import datetime
 import json
 
-with open('app_conf.yaml', 'r') as f:
-    app_config = yaml.safe_load(f.read())
-
+try:
+    with open('app_conf.yaml', 'r') as f:
+        app_config = yaml.safe_load(f.read())
+except IOError:
+    with open('../deployment/app_conf.yml') as f:
+        app_config = yaml.safe_load(f.read())
 
 def add_sell_request(sell_request):
     """ Receives a request for selling an item """
