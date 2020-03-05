@@ -52,8 +52,9 @@ services:
     depends_on:
       - "db"
       - "kafka"
-    config:
-      - ../EventReceiverService:/config
+    volumes:
+      config:
+        - ../EventReceiverService:/config
   data_store:
     image: data-storage
     ports:
@@ -63,8 +64,9 @@ services:
     depends_on:
       - "db"
       - "kafka"
-    config:
-      - ../DataStoreService:/config
+    volumes:
+      config:
+        - ../DataStoreService:/config
   processor:
     image: processing-service
     ports:
@@ -74,8 +76,9 @@ services:
       - "kafka"
     expose:
       - "8100"
-    config:
-      - ../ProcessingService:/config
+    volumes:
+      config:
+        - ../ProcessingService:/config
   audit_log:
     image: audit-log
     ports:
@@ -85,8 +88,9 @@ services:
       - "kafka"
     expose:
       - "8110"
-    config:
-      - ../AuditLogService:/config
+    volumes:
+      config:
+        - ../AuditLogService:/config
 # Names our volume
 volumes:
   my-db:
