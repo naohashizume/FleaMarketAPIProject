@@ -50,7 +50,6 @@ services:
     depends_on:
       - "db"
       - "kafka"
-      - ""
   data_store:
     image: data-storage
     ports:
