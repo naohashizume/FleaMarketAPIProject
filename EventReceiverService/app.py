@@ -5,8 +5,8 @@ from pykafka import KafkaClient
 import yaml
 import datetime
 import json
-STORE_SERVICE_SELL_REQUEST_URL = "http://localhost:8090/sell_request"
-STORE_SERVICE_BUY_REQUEST_URL = "http://localhost:8090/buy_request"
+STORE_SERVICE_SELL_REQUEST_URL = "http://a01022269-lab8.westus2.cloudapp.azure.com:8090/sell_request"
+STORE_SERVICE_BUY_REQUEST_URL = "http://a01022269-lab8.westus2.cloudapp.azure.com:8090/buy_request"
 HEADERS = {"content-type" : "application/json"}
 
 with open('app_conf.yaml', 'r') as f:

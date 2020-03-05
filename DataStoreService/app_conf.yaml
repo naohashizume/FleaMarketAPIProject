@@ -1,11 +1,11 @@
 version: 1
 datastore:
   user: root
-  password: ktcf8774
-  hostname: localhost
+  password: P@ssw0rd
+  hostname: a01022269-lab8.westus2.cloudapp.azure.com
   port: 3306
-  db: lab4
+  db: events
 kafka:
-  server: localhost
+  server: a01022269-lab8.westus2.cloudapp.azure.com
   port: 9092
   topic: events
