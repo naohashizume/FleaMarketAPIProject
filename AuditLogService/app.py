@@ -8,12 +8,12 @@ from flask_cors import CORS, cross_origin
 with open('app_conf.yaml', 'r') as f:
     app_config = yaml.safe_load(f.read())
 
-client = KafkaClient(hosts='%s:%i' % (app_config['kafka']['server'], app_config['kafka']['port']))
-topic = client.topics['%s' % (app_config['kafka']['topic'])]
-
 
 def get_sell_request(number):
     """ Receives a request for selling an item based on offset number """
+    client = KafkaClient(hosts='%s:%i' % (app_config['kafka']['server'], app_config['kafka']['port']))
+    topic = client.topics['%s' % (app_config['kafka']['topic'])]
+
     consumer = topic.get_simple_consumer(reset_offset_on_start=True, consumer_timeout_ms=1000)
 
     i = 1
@@ -30,6 +30,9 @@ def get_sell_request(number):
 
 def get_oldest_buy_request():
     """ Receives an oldest request for buying an item """
+    client = KafkaClient(hosts='%s:%i' % (app_config['kafka']['server'], app_config['kafka']['port']))
+    topic = client.topics['%s' % (app_config['kafka']['topic'])]
+
     consumer = topic.get_simple_consumer(reset_offset_on_start=True, consumer_timeout_ms=1000)
     i = 1
     for msg in consumer:
