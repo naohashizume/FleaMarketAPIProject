@@ -49,33 +49,36 @@ services:
       dockerfile: Dockerfile
       ports:
         - "8080:8080"
-      depends_on:
-        - "kafka"
+    depends_on:
+      - "db"
+      - "kafka"
   data_store:
     build:
       context: ./DataStoraService
       dockerfile: Dockerfile
       ports:
         - "8090:8090"
-      depends_on:
-        - "db"
-        - "kafka"
+    depends_on:
+      - "db"
+      - "kafka"
   processor:
     build:
       context: ./ProcessingService
       dockerfile: Dockerfile
       ports:
         - "8100:8100"
-      depends_on:
-        - "db"
+    depends_on:
+      - "db"
+      - "kafka"
   audit_log:
     build:
       context: ./AuditLogService
       dockerfile: Dockerfile
       ports:
         - "8110:8110"
-      depends_on:
-        - "kafka"
+    depends_on:
+      - "db"
+      - "kafka"
 # Names our volume
 volumes:
   my-db:
