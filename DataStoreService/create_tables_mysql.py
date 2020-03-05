@@ -2,7 +2,7 @@ import mysql.connector
 
 db_conn = mysql.connector.connect(host="a01022269-lab8.westus2.cloudapp.azure.com",
                                   user="root",
-                                  password="P@ssw0rd",
+                                  password="password",
                                   database="events")
 
 db_cursor = db_conn.cursor()
