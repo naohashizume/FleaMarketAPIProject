@@ -1,360 +1,98 @@
-2020-02-13 11:35:08,379 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:08,380 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:23:11'}
-2020-02-13 11:35:08,380 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:10,145 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:10,145 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:23:11'}
-2020-02-13 11:35:10,146 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:12,419 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:12,420 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:23:11'}
-2020-02-13 11:35:12,427 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:12,458 - basicLogger - INFO - Start Periodic Processing
-2020-02-13 11:35:12,668 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:12,668 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:23:11'}
-2020-02-13 11:35:12,668 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:12,735 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:12,736 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:23:11'}
-2020-02-13 11:35:12,736 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:12,978 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:12,979 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:23:11'}
-2020-02-13 11:35:12,980 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:13,042 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:13,042 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:23:11'}
-2020-02-13 11:35:13,043 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:13,296 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:13,298 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:23:11'}
-2020-02-13 11:35:13,298 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:14,119 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:14,120 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:23:11'}
-2020-02-13 11:35:14,120 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:14,428 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:14,429 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:23:11'}
-2020-02-13 11:35:14,429 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:14,511 - basicLogger - INFO - 0 new events for buying requests are received!
-2020-02-13 11:35:14,511 - basicLogger - INFO - 0 new events for selling requests are received!
-2020-02-13 11:35:14,511 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:35:12'}
-2020-02-13 11:35:14,512 - basicLogger - INFO - Scheduler End
-2020-02-13 11:35:16,118 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:16,123 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:35:12'}
-2020-02-13 11:35:16,123 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:16,430 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:16,431 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:35:12'}
-2020-02-13 11:35:16,432 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:17,460 - basicLogger - INFO - Start Periodic Processing
-2020-02-13 11:35:18,125 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:18,125 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:35:12'}
-2020-02-13 11:35:18,126 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:18,434 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:18,435 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:35:12'}
-2020-02-13 11:35:18,435 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:19,492 - basicLogger - INFO - 0 new events for buying requests are received!
-2020-02-13 11:35:19,492 - basicLogger - INFO - 0 new events for selling requests are received!
-2020-02-13 11:35:19,492 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:35:17'}
-2020-02-13 11:35:19,493 - basicLogger - INFO - Scheduler End
-2020-02-13 11:35:20,132 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:20,141 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:35:17'}
-2020-02-13 11:35:20,141 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:20,447 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:20,448 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:35:17'}
-2020-02-13 11:35:20,448 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:20,698 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:20,698 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:35:17'}
-2020-02-13 11:35:20,698 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:20,752 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:20,753 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:35:17'}
-2020-02-13 11:35:20,753 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:22,141 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:22,142 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:35:17'}
-2020-02-13 11:35:22,142 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:22,452 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:22,453 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:35:17'}
-2020-02-13 11:35:22,453 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:22,460 - basicLogger - INFO - Start Periodic Processing
-2020-02-13 11:35:24,144 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:24,145 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:35:17'}
-2020-02-13 11:35:24,145 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:24,451 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:24,452 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:35:17'}
-2020-02-13 11:35:24,452 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:24,485 - basicLogger - INFO - 0 new events for buying requests are received!
-2020-02-13 11:35:24,485 - basicLogger - INFO - 0 new events for selling requests are received!
-2020-02-13 11:35:24,486 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:35:22'}
-2020-02-13 11:35:24,486 - basicLogger - INFO - Scheduler End
-2020-02-13 11:35:24,701 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:24,706 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:35:22'}
-2020-02-13 11:35:24,706 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:24,758 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:24,759 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:35:22'}
-2020-02-13 11:35:24,759 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:26,144 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:26,145 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:35:22'}
-2020-02-13 11:35:26,145 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:26,457 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:26,458 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:35:22'}
-2020-02-13 11:35:26,458 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:27,475 - basicLogger - INFO - Start Periodic Processing
-2020-02-13 11:35:28,151 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:28,152 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:35:22'}
-2020-02-13 11:35:28,153 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:28,460 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:28,460 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 182, 'timestamp': '2020-02-13T11:35:22'}
-2020-02-13 11:35:28,460 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:29,508 - basicLogger - INFO - 0 new events for buying requests are received!
-2020-02-13 11:35:29,509 - basicLogger - INFO - 3 new events for selling requests are received!
-2020-02-13 11:35:29,510 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:27'}
-2020-02-13 11:35:29,511 - basicLogger - INFO - Scheduler End
-2020-02-13 11:35:30,167 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:30,177 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:27'}
-2020-02-13 11:35:30,177 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:30,483 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:30,484 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:27'}
-2020-02-13 11:35:30,484 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:30,736 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:30,736 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:27'}
-2020-02-13 11:35:30,736 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:30,804 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:30,804 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:27'}
-2020-02-13 11:35:30,805 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:32,158 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:32,159 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:27'}
-2020-02-13 11:35:32,159 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:32,460 - basicLogger - INFO - Start Periodic Processing
-2020-02-13 11:35:32,470 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:32,470 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:27'}
-2020-02-13 11:35:32,470 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:34,173 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:34,173 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:27'}
-2020-02-13 11:35:34,174 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:34,480 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:34,480 - basicLogger - DEBUG - {'num_buy_request': 172, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:27'}
-2020-02-13 11:35:34,480 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:34,501 - basicLogger - INFO - 3 new events for buying requests are received!
-2020-02-13 11:35:34,501 - basicLogger - INFO - 0 new events for selling requests are received!
-2020-02-13 11:35:34,501 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:32'}
-2020-02-13 11:35:34,502 - basicLogger - INFO - Scheduler End
-2020-02-13 11:35:34,735 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:34,748 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:32'}
-2020-02-13 11:35:34,748 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:34,786 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:34,786 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:32'}
-2020-02-13 11:35:34,787 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:35,054 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:35,054 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:32'}
-2020-02-13 11:35:35,054 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:36,175 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:36,176 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:32'}
-2020-02-13 11:35:36,177 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:36,485 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:36,486 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:32'}
-2020-02-13 11:35:36,486 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:37,472 - basicLogger - INFO - Start Periodic Processing
-2020-02-13 11:35:38,174 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:38,175 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:32'}
-2020-02-13 11:35:38,175 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:38,482 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:38,482 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:32'}
-2020-02-13 11:35:38,483 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:39,500 - basicLogger - INFO - 0 new events for buying requests are received!
-2020-02-13 11:35:39,500 - basicLogger - INFO - 0 new events for selling requests are received!
-2020-02-13 11:35:39,501 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:37'}
-2020-02-13 11:35:39,501 - basicLogger - INFO - Scheduler End
-2020-02-13 11:35:40,185 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:40,201 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:37'}
-2020-02-13 11:35:40,201 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:40,507 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:40,507 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:37'}
-2020-02-13 11:35:40,508 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:40,758 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:40,758 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:37'}
-2020-02-13 11:35:40,758 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:40,813 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:40,813 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:37'}
-2020-02-13 11:35:40,813 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:41,067 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:41,068 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:37'}
-2020-02-13 11:35:41,068 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:42,181 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:42,182 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:37'}
-2020-02-13 11:35:42,182 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:42,460 - basicLogger - INFO - Start Periodic Processing
-2020-02-13 11:35:42,491 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:42,491 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:37'}
-2020-02-13 11:35:42,492 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:44,192 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:44,193 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:37'}
-2020-02-13 11:35:44,193 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:44,483 - basicLogger - INFO - 0 new events for buying requests are received!
-2020-02-13 11:35:44,483 - basicLogger - INFO - 0 new events for selling requests are received!
-2020-02-13 11:35:44,484 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:42'}
-2020-02-13 11:35:44,485 - basicLogger - INFO - Scheduler End
-2020-02-13 11:35:44,498 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:44,506 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:42'}
-2020-02-13 11:35:44,506 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:44,753 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:44,754 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:42'}
-2020-02-13 11:35:44,755 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:44,814 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:44,814 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:42'}
-2020-02-13 11:35:44,814 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:46,192 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:46,192 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:42'}
-2020-02-13 11:35:46,193 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:46,502 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:46,503 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:42'}
-2020-02-13 11:35:46,503 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:47,473 - basicLogger - INFO - Start Periodic Processing
-2020-02-13 11:35:48,208 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:48,209 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:42'}
-2020-02-13 11:35:48,209 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:48,524 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:48,524 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:42'}
-2020-02-13 11:35:48,524 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:49,521 - basicLogger - INFO - 0 new events for buying requests are received!
-2020-02-13 11:35:49,521 - basicLogger - INFO - 0 new events for selling requests are received!
-2020-02-13 11:35:49,522 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:47'}
-2020-02-13 11:35:49,523 - basicLogger - INFO - Scheduler End
-2020-02-13 11:35:50,211 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:50,218 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:47'}
-2020-02-13 11:35:50,219 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:50,526 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:50,528 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:47'}
-2020-02-13 11:35:50,528 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:50,778 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:50,778 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:47'}
-2020-02-13 11:35:50,779 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:50,835 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:50,835 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:47'}
-2020-02-13 11:35:50,835 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:52,219 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:52,220 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:47'}
-2020-02-13 11:35:52,220 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:52,460 - basicLogger - INFO - Start Periodic Processing
-2020-02-13 11:35:52,528 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:52,528 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:47'}
-2020-02-13 11:35:52,528 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:54,221 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:54,221 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:47'}
-2020-02-13 11:35:54,222 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:54,482 - basicLogger - INFO - 0 new events for buying requests are received!
-2020-02-13 11:35:54,483 - basicLogger - INFO - 0 new events for selling requests are received!
-2020-02-13 11:35:54,483 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:52'}
-2020-02-13 11:35:54,484 - basicLogger - INFO - Scheduler End
-2020-02-13 11:35:54,528 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:54,536 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:52'}
-2020-02-13 11:35:54,536 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:54,780 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:54,781 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:52'}
-2020-02-13 11:35:54,781 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:54,848 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:54,849 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:52'}
-2020-02-13 11:35:54,849 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:56,226 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:56,227 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:52'}
-2020-02-13 11:35:56,228 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:56,539 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:56,539 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:52'}
-2020-02-13 11:35:56,540 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:57,474 - basicLogger - INFO - Start Periodic Processing
-2020-02-13 11:35:58,234 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:58,235 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:52'}
-2020-02-13 11:35:58,235 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:58,542 - basicLogger - INFO - GET request has started
-2020-02-13 11:35:58,543 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:52'}
-2020-02-13 11:35:58,543 - basicLogger - INFO - GET request has completed
-2020-02-13 11:35:59,506 - basicLogger - INFO - 0 new events for buying requests are received!
-2020-02-13 11:35:59,506 - basicLogger - INFO - 0 new events for selling requests are received!
-2020-02-13 11:35:59,507 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:57'}
-2020-02-13 11:35:59,507 - basicLogger - INFO - Scheduler End
-2020-02-13 11:36:00,241 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:00,248 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:57'}
-2020-02-13 11:36:00,249 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:00,555 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:00,556 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:57'}
-2020-02-13 11:36:00,556 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:00,805 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:00,806 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:57'}
-2020-02-13 11:36:00,806 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:00,861 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:00,862 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:57'}
-2020-02-13 11:36:00,862 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:02,247 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:02,248 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:57'}
-2020-02-13 11:36:02,248 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:02,462 - basicLogger - INFO - Start Periodic Processing
-2020-02-13 11:36:02,554 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:02,555 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:57'}
-2020-02-13 11:36:02,556 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:04,262 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:04,263 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:35:57'}
-2020-02-13 11:36:04,263 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:04,487 - basicLogger - INFO - 0 new events for buying requests are received!
-2020-02-13 11:36:04,487 - basicLogger - INFO - 0 new events for selling requests are received!
-2020-02-13 11:36:04,488 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:36:02'}
-2020-02-13 11:36:04,488 - basicLogger - INFO - Scheduler End
-2020-02-13 11:36:04,572 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:04,578 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:36:02'}
-2020-02-13 11:36:04,578 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:04,826 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:04,827 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:36:02'}
-2020-02-13 11:36:04,827 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:04,884 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:04,885 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:36:02'}
-2020-02-13 11:36:04,885 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:06,273 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:06,274 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:36:02'}
-2020-02-13 11:36:06,274 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:06,582 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:06,583 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:36:02'}
-2020-02-13 11:36:06,584 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:07,470 - basicLogger - INFO - Start Periodic Processing
-2020-02-13 11:36:08,279 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:08,280 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:36:02'}
-2020-02-13 11:36:08,280 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:08,586 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:08,587 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:36:02'}
-2020-02-13 11:36:08,587 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:09,524 - basicLogger - INFO - 0 new events for buying requests are received!
-2020-02-13 11:36:09,525 - basicLogger - INFO - 0 new events for selling requests are received!
-2020-02-13 11:36:09,527 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:36:07'}
-2020-02-13 11:36:09,530 - basicLogger - INFO - Scheduler End
-2020-02-13 11:36:10,309 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:10,317 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:36:07'}
-2020-02-13 11:36:10,317 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:10,623 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:10,623 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:36:07'}
-2020-02-13 11:36:10,623 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:10,874 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:10,875 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:36:07'}
-2020-02-13 11:36:10,875 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:10,930 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:10,931 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:36:07'}
-2020-02-13 11:36:10,931 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:12,309 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:12,310 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:36:07'}
-2020-02-13 11:36:12,310 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:12,465 - basicLogger - INFO - Start Periodic Processing
-2020-02-13 11:36:12,617 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:12,618 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:36:07'}
-2020-02-13 11:36:12,618 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:14,319 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:14,320 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:36:07'}
-2020-02-13 11:36:14,320 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:14,522 - basicLogger - INFO - 0 new events for buying requests are received!
-2020-02-13 11:36:14,523 - basicLogger - INFO - 0 new events for selling requests are received!
-2020-02-13 11:36:14,525 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:36:12'}
-2020-02-13 11:36:14,527 - basicLogger - INFO - Scheduler End
-2020-02-13 11:36:14,626 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:14,634 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:36:12'}
-2020-02-13 11:36:14,635 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:14,878 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:14,878 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:36:12'}
-2020-02-13 11:36:14,879 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:14,946 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:14,947 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:36:12'}
-2020-02-13 11:36:14,947 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:16,318 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:16,319 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:36:12'}
-2020-02-13 11:36:16,319 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:16,627 - basicLogger - INFO - GET request has started
-2020-02-13 11:36:16,627 - basicLogger - DEBUG - {'num_buy_request': 175, 'num_sell_request': 185, 'timestamp': '2020-02-13T11:36:12'}
-2020-02-13 11:36:16,627 - basicLogger - INFO - GET request has completed
-2020-02-13 11:36:17,469 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:35:20,647 - basicLogger - INFO - GET request has started
+2020-03-05 10:35:20,647 - basicLogger - DEBUG - {}
+2020-03-05 10:35:20,647 - basicLogger - INFO - GET request has completed
+2020-03-05 10:35:21,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:35:26,058 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:35:31,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:35:36,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:35:41,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:35:46,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:35:51,058 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:35:56,059 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:36:01,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:36:06,059 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:36:11,058 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:36:16,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:36:21,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:36:26,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:36:31,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:36:36,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:36:41,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:36:46,055 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:36:51,055 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:36:56,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:37:01,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:37:06,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:37:11,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:37:16,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:37:21,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:37:26,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:37:31,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:37:36,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:37:41,055 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:37:46,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:37:51,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:37:56,055 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:38:01,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:38:06,055 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:38:11,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:38:16,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:38:21,055 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:38:26,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:38:31,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:38:36,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:38:41,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:38:46,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:38:51,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:38:56,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:39:01,058 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:39:06,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:39:11,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:39:16,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:39:21,055 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:39:26,055 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:39:31,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:39:36,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:39:41,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:39:46,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:39:51,055 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:39:56,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:40:01,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:40:06,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:40:11,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:40:16,058 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:40:21,058 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:40:26,055 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:40:31,055 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:40:36,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:40:41,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:40:46,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:40:51,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:40:56,055 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:41:01,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:41:06,055 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:41:11,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:41:16,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:41:21,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:41:26,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:41:31,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:41:36,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:41:41,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:41:46,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:41:51,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:41:56,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:42:01,055 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:42:06,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:42:11,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:42:16,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:42:21,056 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:42:26,057 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:42:58,552 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:43:03,554 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:43:08,556 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:43:13,557 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:43:18,554 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:43:23,554 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:43:28,556 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:43:33,553 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:43:38,555 - basicLogger - INFO - Start Periodic Processing
