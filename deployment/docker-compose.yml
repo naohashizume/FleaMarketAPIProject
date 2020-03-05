@@ -47,8 +47,8 @@ services:
     build:
       context: ./EventReceiverService
       dockerfile: Dockerfile
-      ports:
-        - "8080:8080"
+    ports:
+      - "8080:8080"
     depends_on:
       - "db"
       - "kafka"
@@ -56,8 +56,8 @@ services:
     build:
       context: ./DataStoraService
       dockerfile: Dockerfile
-      ports:
-        - "8090:8090"
+    ports:
+      - "8090:8090"
     depends_on:
       - "db"
       - "kafka"
@@ -65,8 +65,8 @@ services:
     build:
       context: ./ProcessingService
       dockerfile: Dockerfile
-      ports:
-        - "8100:8100"
+    ports:
+      - "8100:8100"
     depends_on:
       - "db"
       - "kafka"
@@ -74,8 +74,8 @@ services:
     build:
       context: ./AuditLogService
       dockerfile: Dockerfile
-      ports:
-        - "8110:8110"
+    ports:
+      - "8110:8110"
     depends_on:
       - "db"
       - "kafka"
