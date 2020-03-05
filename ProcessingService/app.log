@@ -96,3 +96,303 @@
 2020-03-05 10:43:28,556 - basicLogger - INFO - Start Periodic Processing
 2020-03-05 10:43:33,553 - basicLogger - INFO - Start Periodic Processing
 2020-03-05 10:43:38,555 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:46:12,097 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:46:14,438 - basicLogger - INFO - 2 new events for buying requests are received!
+2020-03-05 10:46:14,438 - basicLogger - INFO - 4 new events for selling requests are received!
+2020-03-05 10:46:14,439 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:46:12'}
+2020-03-05 10:46:14,439 - basicLogger - INFO - Scheduler End
+2020-03-05 10:46:17,097 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:46:19,208 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:46:19,208 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:46:19,208 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:46:17'}
+2020-03-05 10:46:19,209 - basicLogger - INFO - Scheduler End
+2020-03-05 10:46:22,101 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:46:24,201 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:46:24,201 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:46:24,201 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:46:22'}
+2020-03-05 10:46:24,202 - basicLogger - INFO - Scheduler End
+2020-03-05 10:46:27,101 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:46:29,197 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:46:29,198 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:46:29,198 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:46:27'}
+2020-03-05 10:46:29,199 - basicLogger - INFO - Scheduler End
+2020-03-05 10:46:32,100 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:46:34,182 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:46:34,182 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:46:34,183 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:46:32'}
+2020-03-05 10:46:34,183 - basicLogger - INFO - Scheduler End
+2020-03-05 10:46:35,543 - basicLogger - INFO - GET request has started
+2020-03-05 10:46:35,549 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:46:32'}
+2020-03-05 10:46:35,549 - basicLogger - INFO - GET request has completed
+2020-03-05 10:46:37,099 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:46:39,181 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:46:39,181 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:46:39,181 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:46:37'}
+2020-03-05 10:46:39,182 - basicLogger - INFO - Scheduler End
+2020-03-05 10:46:42,100 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:46:44,195 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:46:44,195 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:46:44,197 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:46:42'}
+2020-03-05 10:46:44,198 - basicLogger - INFO - Scheduler End
+2020-03-05 10:46:47,100 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:46:49,183 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:46:49,183 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:46:49,184 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:46:47'}
+2020-03-05 10:46:49,184 - basicLogger - INFO - Scheduler End
+2020-03-05 10:46:52,098 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:46:54,166 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:46:54,166 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:46:54,167 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:46:52'}
+2020-03-05 10:46:54,167 - basicLogger - INFO - Scheduler End
+2020-03-05 10:46:57,098 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:46:59,176 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:46:59,176 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:46:59,177 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:46:57'}
+2020-03-05 10:46:59,177 - basicLogger - INFO - Scheduler End
+2020-03-05 10:47:02,098 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:47:04,177 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:47:04,177 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:47:04,178 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:47:02'}
+2020-03-05 10:47:04,179 - basicLogger - INFO - Scheduler End
+2020-03-05 10:47:07,096 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:47:09,184 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:47:09,185 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:47:09,186 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:47:07'}
+2020-03-05 10:47:09,188 - basicLogger - INFO - Scheduler End
+2020-03-05 10:47:12,097 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:47:14,206 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:47:14,206 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:47:14,207 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:47:12'}
+2020-03-05 10:47:14,208 - basicLogger - INFO - Scheduler End
+2020-03-05 10:47:17,096 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:47:19,192 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:47:19,193 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:47:19,195 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:47:17'}
+2020-03-05 10:47:19,197 - basicLogger - INFO - Scheduler End
+2020-03-05 10:47:22,096 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:47:24,169 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:47:24,169 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:47:24,170 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:47:22'}
+2020-03-05 10:47:24,170 - basicLogger - INFO - Scheduler End
+2020-03-05 10:47:27,097 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:47:29,192 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:47:29,192 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:47:29,193 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:47:27'}
+2020-03-05 10:47:29,193 - basicLogger - INFO - Scheduler End
+2020-03-05 10:47:32,097 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:47:34,192 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:47:34,192 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:47:34,192 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:47:32'}
+2020-03-05 10:47:34,194 - basicLogger - INFO - Scheduler End
+2020-03-05 10:47:37,096 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:47:39,172 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:47:39,172 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:47:39,172 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:47:37'}
+2020-03-05 10:47:39,173 - basicLogger - INFO - Scheduler End
+2020-03-05 10:47:42,096 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:47:44,195 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:47:44,195 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:47:44,195 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:47:42'}
+2020-03-05 10:47:44,196 - basicLogger - INFO - Scheduler End
+2020-03-05 10:47:47,098 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:47:49,221 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:47:49,221 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:47:49,223 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:47:47'}
+2020-03-05 10:47:49,225 - basicLogger - INFO - Scheduler End
+2020-03-05 10:47:52,096 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:47:54,189 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:47:54,190 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:47:54,192 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:47:52'}
+2020-03-05 10:47:54,193 - basicLogger - INFO - Scheduler End
+2020-03-05 10:47:57,098 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:47:59,186 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:47:59,186 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:47:59,188 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:47:57'}
+2020-03-05 10:47:59,189 - basicLogger - INFO - Scheduler End
+2020-03-05 10:48:02,097 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:48:04,185 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:48:04,186 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:48:04,188 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:48:02'}
+2020-03-05 10:48:04,189 - basicLogger - INFO - Scheduler End
+2020-03-05 10:48:07,097 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:48:09,200 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:48:09,200 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:48:09,202 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:48:07'}
+2020-03-05 10:48:09,204 - basicLogger - INFO - Scheduler End
+2020-03-05 10:48:12,099 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:48:14,183 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:48:14,183 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:48:14,184 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:48:12'}
+2020-03-05 10:48:14,185 - basicLogger - INFO - Scheduler End
+2020-03-05 10:48:17,096 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:48:19,172 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:48:19,172 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:48:19,172 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:48:17'}
+2020-03-05 10:48:19,173 - basicLogger - INFO - Scheduler End
+2020-03-05 10:48:22,098 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:48:24,218 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:48:24,218 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:48:24,219 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:48:22'}
+2020-03-05 10:48:24,220 - basicLogger - INFO - Scheduler End
+2020-03-05 10:48:27,098 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:48:29,211 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:48:29,212 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:48:29,214 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:48:27'}
+2020-03-05 10:48:29,215 - basicLogger - INFO - Scheduler End
+2020-03-05 10:48:32,098 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:48:34,202 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:48:34,202 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:48:34,204 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:48:32'}
+2020-03-05 10:48:34,206 - basicLogger - INFO - Scheduler End
+2020-03-05 10:48:37,098 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:48:39,210 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:48:39,210 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:48:39,212 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:48:37'}
+2020-03-05 10:48:39,214 - basicLogger - INFO - Scheduler End
+2020-03-05 10:48:42,096 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:48:44,164 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:48:44,164 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:48:44,165 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:48:42'}
+2020-03-05 10:48:44,165 - basicLogger - INFO - Scheduler End
+2020-03-05 10:48:47,096 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:48:49,180 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:48:49,180 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:48:49,181 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:48:47'}
+2020-03-05 10:48:49,182 - basicLogger - INFO - Scheduler End
+2020-03-05 10:48:52,098 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:48:54,199 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:48:54,199 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:48:54,201 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:48:52'}
+2020-03-05 10:48:54,203 - basicLogger - INFO - Scheduler End
+2020-03-05 10:48:57,098 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:48:59,172 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:48:59,172 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:48:59,173 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:48:57'}
+2020-03-05 10:48:59,173 - basicLogger - INFO - Scheduler End
+2020-03-05 10:49:02,098 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:49:04,196 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:49:04,196 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:49:04,197 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:49:02'}
+2020-03-05 10:49:04,198 - basicLogger - INFO - Scheduler End
+2020-03-05 10:49:07,099 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:49:09,186 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:49:09,187 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:49:09,187 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:49:07'}
+2020-03-05 10:49:09,188 - basicLogger - INFO - Scheduler End
+2020-03-05 10:49:12,097 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:49:14,171 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:49:14,172 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:49:14,172 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:49:12'}
+2020-03-05 10:49:14,173 - basicLogger - INFO - Scheduler End
+2020-03-05 10:49:17,096 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:49:19,193 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:49:19,193 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:49:19,194 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:49:17'}
+2020-03-05 10:49:19,195 - basicLogger - INFO - Scheduler End
+2020-03-05 10:49:22,097 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:49:24,185 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:49:24,185 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:49:24,186 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:49:22'}
+2020-03-05 10:49:24,188 - basicLogger - INFO - Scheduler End
+2020-03-05 10:49:27,096 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:49:29,174 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:49:29,174 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:49:29,175 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:49:27'}
+2020-03-05 10:49:29,176 - basicLogger - INFO - Scheduler End
+2020-03-05 10:49:32,096 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:49:34,179 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:49:34,180 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:49:34,180 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:49:32'}
+2020-03-05 10:49:34,181 - basicLogger - INFO - Scheduler End
+2020-03-05 10:49:37,096 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:49:39,218 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:49:39,219 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:49:39,219 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:49:37'}
+2020-03-05 10:49:39,220 - basicLogger - INFO - Scheduler End
+2020-03-05 10:49:42,098 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:49:44,202 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:49:44,203 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:49:44,203 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:49:42'}
+2020-03-05 10:49:44,204 - basicLogger - INFO - Scheduler End
+2020-03-05 10:49:47,097 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:49:49,197 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:49:49,198 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:49:49,198 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:49:47'}
+2020-03-05 10:49:49,199 - basicLogger - INFO - Scheduler End
+2020-03-05 10:49:52,096 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:49:54,167 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:49:54,167 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:49:54,168 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:49:52'}
+2020-03-05 10:49:54,169 - basicLogger - INFO - Scheduler End
+2020-03-05 10:49:57,096 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:49:59,186 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:49:59,186 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:49:59,188 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:49:57'}
+2020-03-05 10:49:59,190 - basicLogger - INFO - Scheduler End
+2020-03-05 10:50:02,097 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:50:04,196 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:50:04,197 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:50:04,198 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:50:02'}
+2020-03-05 10:50:04,199 - basicLogger - INFO - Scheduler End
+2020-03-05 10:50:07,095 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:50:09,175 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:50:09,175 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:50:09,176 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:50:07'}
+2020-03-05 10:50:09,177 - basicLogger - INFO - Scheduler End
+2020-03-05 10:50:12,096 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:50:14,171 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:50:14,171 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:50:14,172 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:50:12'}
+2020-03-05 10:50:14,172 - basicLogger - INFO - Scheduler End
+2020-03-05 10:50:17,097 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:50:19,187 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:50:19,187 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:50:19,188 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:50:17'}
+2020-03-05 10:50:19,189 - basicLogger - INFO - Scheduler End
+2020-03-05 10:50:22,096 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:50:24,172 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:50:24,172 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:50:24,172 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:50:22'}
+2020-03-05 10:50:24,173 - basicLogger - INFO - Scheduler End
+2020-03-05 10:50:27,098 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:50:29,210 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:50:29,211 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:50:29,211 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:50:27'}
+2020-03-05 10:50:29,212 - basicLogger - INFO - Scheduler End
+2020-03-05 10:50:32,096 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:50:34,171 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:50:34,171 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:50:34,171 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:50:32'}
+2020-03-05 10:50:34,172 - basicLogger - INFO - Scheduler End
+2020-03-05 10:50:37,097 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:50:39,266 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:50:39,266 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:50:39,268 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:50:37'}
+2020-03-05 10:50:39,270 - basicLogger - INFO - Scheduler End
+2020-03-05 10:50:42,098 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:50:44,191 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:50:44,192 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:50:44,193 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:50:42'}
+2020-03-05 10:50:44,194 - basicLogger - INFO - Scheduler End
+2020-03-05 10:50:47,097 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:50:49,179 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:50:49,179 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:50:49,180 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:50:47'}
+2020-03-05 10:50:49,181 - basicLogger - INFO - Scheduler End
+2020-03-05 10:50:52,097 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:50:54,203 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:50:54,203 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:50:54,204 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:50:52'}
+2020-03-05 10:50:54,204 - basicLogger - INFO - Scheduler End
+2020-03-05 10:50:57,096 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:50:59,165 - basicLogger - INFO - 0 new events for buying requests are received!
+2020-03-05 10:50:59,166 - basicLogger - INFO - 0 new events for selling requests are received!
+2020-03-05 10:50:59,166 - basicLogger - DEBUG - {'num_buy_request': 4, 'num_sell_request': 4, 'timestamp': '2020-03-05T10:50:57'}
+2020-03-05 10:50:59,167 - basicLogger - INFO - Scheduler End
+2020-03-05 10:51:02,097 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:51:05,382 - basicLogger - INFO - 4 new events for buying requests are received!
+2020-03-05 10:51:05,382 - basicLogger - INFO - 4 new events for selling requests are received!
+2020-03-05 10:51:05,382 - basicLogger - ERROR - You received 500 for GET buying requests, 500 for GET selling requests
+2020-03-05 10:51:05,382 - basicLogger - DEBUG - {'num_buy_request': 8, 'num_sell_request': 8, 'timestamp': '2020-03-05T10:51:02'}
+2020-03-05 10:51:05,383 - basicLogger - INFO - Scheduler End
+2020-03-05 10:51:07,097 - basicLogger - INFO - Start Periodic Processing
