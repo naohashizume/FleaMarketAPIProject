@@ -16,7 +16,7 @@ try:
 except IOError:
     with open('../deployment/app_conf.yml') as f:
         app_config = yaml.safe_load(f.read())
-        
+
 with open('log_conf.yaml', 'r') as f:
     log_config = yaml.safe_load(f.read())
     logging.config.dictConfig(log_config)

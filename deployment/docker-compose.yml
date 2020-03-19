@@ -81,7 +81,6 @@ services:
     ports:
       - "8110:8110"
     depends_on:
-      - "db"
       - "kafka"
     expose:
       - "8110"
