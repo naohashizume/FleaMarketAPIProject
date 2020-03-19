@@ -12,7 +12,7 @@ function App() {
   const [firstItemSellRequest, SetFirstItemSellRequest] = useState("default");
 
   let URL1 =
-    "http://a01022269-lab8.westus2.cloudapp.azure.com:8100/sell_request?startDate=2016-01-01T11:55:01&endDate=2023-01-31T11:56:01";
+    "http://a01022269-lab8.westus2.cloudapp.azure.com:8110/sell_request?startDate=2016-01-01T11:55:01&endDate=2023-01-31T11:56:01";
   let URL2 =
     "http://a01022269-lab8.westus2.cloudapp.azure.com:8110/sell_request/first";
   let URL3 =

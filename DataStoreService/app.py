@@ -15,11 +15,11 @@ import logging.config
 from threading import Thread
 
 try:
+     with open('/config/app_conf.yml') as f:
+        app_config = yaml.safe_load(f.read())
+except:
     with open('app_conf.yaml', 'r') as f:
-        app_config = yaml.safe_load(f.read())
-except IOError:
-    with open('../deployment/app_conf.yml') as f:
-        app_config = yaml.safe_load(f.read())
+            app_config = yaml.safe_load(f.read())
 
 with open('log_conf.yaml', 'r') as f:
     log_config = yaml.safe_load(f.read())
